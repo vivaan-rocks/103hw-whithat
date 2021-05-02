@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(red,blue);
+}
+.camera{
+    border-style: dashed;
+    border-color: white;
+    border-width: 1px;
+    height: 250px;
+    width: 250px;
+}
+*{
+    color: white;
+}
